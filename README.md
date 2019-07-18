@@ -2,20 +2,10 @@
 强化学习开发相关
 
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=pieI7rOXELI&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba" target="_blank">
-    <img width="60%" src="https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/RL_cover.jpg" style="max-width:100%;">
-    </a>
-</p>
-
-
-<br>
-
 # Reinforcement Learning Methods and Tutorials
 
 In these tutorials for reinforcement learning, it covers from the basic RL algorithms to advanced algorithms developed recent years.
 
-**If you speak Chinese, visit [莫烦 Python](https://morvanzhou.github.io/tutorials/) or my [Youtube channel](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg) for more.**
 
 **As many requests about making these tutorials available in English, please find them in this playlist:** ([https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba](https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba))
 
@@ -92,23 +82,3 @@ In these tutorials for reinforcement learning, it covers from the basic RL algor
 <a href="/contents/Curiosity_Model">
     <img class="course-image" src="/contents/Curiosity_Model/Curiosity.png">
 </a>
-
-# Donation
-
-*If this does help you, please consider donating to support me for better tutorials. Any contribution is greatly appreciated!*
-
-<div >
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=morvanzhou%40gmail%2ecom&amp;lc=C2&amp;item_name=MorvanPython&amp;currency_code=AUD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">
-    <img style="border-radius: 20px;  box-shadow: 0px 0px 10px 1px  #888888;"
-         src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png"
-         alt="Paypal"
-         height="auto" ></a>
-</div>
-
-<div>
-  <a href="https://www.patreon.com/morvan">
-    <img src="https://morvanzhou.github.io/static/img/support/patreon.jpg"
-         alt="Patreon"
-         height=120></a>
-</div>
-
