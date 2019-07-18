@@ -2,14 +2,14 @@
 强化学习开发相关
 
 
-# Reinforcement Learning Methods and Tutorials
-
-In these tutorials for reinforcement learning, it covers from the basic RL algorithms to advanced algorithms developed recent years.
+# Reinforcement Learning Reading List
 
 
-**As many requests about making these tutorials available in English, please find them in this playlist:** ([https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba](https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba))
+** 多agentRL
 
-# Table of Contents
+** 多目标RL
+
+# 目录
 
 * Tutorials
     * [Simple entry example](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/tree/master/contents/1_command_line_reinforcement_learning)
